@@ -62,15 +62,6 @@ This Python script performs PDF and web data scraping, transforms the extracted 
    - Returns:
      - Excel file as a downloadable attachment.
 
-7. **Error Handling and Logging:**
-   - Implements basic error handling and logging using the `logging` module.
-   - Logs are stored in the `app.log` file.
-
-### Additional Considerations:
-- Ensure proper error handling and logging for debugging and monitoring purposes.
-- Customize the code according to specific requirements, such as file paths, URLs, database configurations, and API endpoints.
-- Test the script thoroughly with various PDF structures, web pages, and database interactions to ensure functionality and reliability.
-
 ---
 
 This documentation provides an overview of the script's purpose, dependencies, usage instructions, step-by-step guide, and additional considerations. Adjustments may be needed based on your specific use case and environment.
